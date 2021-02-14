@@ -1,0 +1,11 @@
+# Proper code editing software
+.idea
+.vscode
+
+# Rust
+/target
+
+# Enhanced text editors with a run button
+/.project
+/.cproject
+/.settings
